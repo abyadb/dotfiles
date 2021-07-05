@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = douglasmbrennan@gmail.com
+	name = douglas brennan
